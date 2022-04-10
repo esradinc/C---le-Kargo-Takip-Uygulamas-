@@ -1,0 +1,493 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WQ3V+948 Çankaya/Ankara, Turkey",
+      "global_code" : "8GFJWQ3V+948"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "No: 41/1",
+               "short_name" : "No: 41/1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sevgi Park İçi Yolu",
+               "short_name" : "Sevgi Park İçi Yolu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Çukurambar",
+               "short_name" : "Çukurambar",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06510",
+               "short_name" : "06510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Çukurambar Mh. Öğretmenler Cd. Çansera, Çukurambar, Sevgi Park İçi Yolu No: 41/1, 06510 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9037952,
+               "lng" : 32.7930642
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9051441802915,
+                  "lng" : 32.79441318029149
+               },
+               "southwest" : {
+                  "lat" : 39.9024462197085,
+                  "lng" : 32.79171521970849
+               }
+            }
+         },
+         "place_id" : "ChIJJxpDjh1G0xQReYAN97UslP4",
+         "plus_code" : {
+            "compound_code" : "WQ3V+G6 Çankaya/Ankara, Turkey",
+            "global_code" : "8GFJWQ3V+G6"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WQ3V+94",
+               "short_name" : "WQ3V+94",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WQ3V+94 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9035,
+                  "lng" : 32.792875
+               },
+               "southwest" : {
+                  "lat" : 39.903375,
+                  "lng" : 32.79275
+               }
+            },
+            "location" : {
+               "lat" : 39.9034156,
+               "lng" : 32.7928162
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.90478648029151,
+                  "lng" : 32.7941614802915
+               },
+               "southwest" : {
+                  "lat" : 39.90208851970851,
+                  "lng" : 32.7914635197085
+               }
+            }
+         },
+         "place_id" : "GhIJHVlUH6PzQ0ARl15RAHtlQEA",
+         "plus_code" : {
+            "compound_code" : "WQ3V+94 Çankaya/Ankara, Turkey",
+            "global_code" : "8GFJWQ3V+94"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1457. Caddesi",
+               "short_name" : "1457. Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Çukurambar",
+               "short_name" : "Çukurambar",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06510",
+               "short_name" : "06510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Çukurambar, 1457. Cd., 06510 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9039501,
+                  "lng" : 32.7946024
+               },
+               "southwest" : {
+                  "lat" : 39.9028887,
+                  "lng" : 32.7926276
+               }
+            },
+            "location" : {
+               "lat" : 39.9034994,
+               "lng" : 32.7934684
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9047683802915,
+                  "lng" : 32.7949639802915
+               },
+               "southwest" : {
+                  "lat" : 39.9020704197085,
+                  "lng" : 32.7922660197085
+               }
+            }
+         },
+         "place_id" : "ChIJRcSKkB1G0xQR6qOdFD3vAEE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06510",
+               "short_name" : "06510",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Çukurambar",
+               "short_name" : "Çukurambar",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Çukurambar, 06510 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.910446,
+                  "lng" : 32.808335
+               },
+               "southwest" : {
+                  "lat" : 39.893994,
+                  "lng" : 32.7860941
+               }
+            },
+            "location" : {
+               "lat" : 39.9044356,
+               "lng" : 32.7999862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.910446,
+                  "lng" : 32.808335
+               },
+               "southwest" : {
+                  "lat" : 39.893994,
+                  "lng" : 32.7860941
+               }
+            }
+         },
+         "place_id" : "ChIJU_NHswJG0xQRvVHGRzNK8GE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çukurambar",
+               "short_name" : "Çukurambar",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06510",
+               "short_name" : "06510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Çukurambar, 06510 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.910446,
+                  "lng" : 32.808335
+               },
+               "southwest" : {
+                  "lat" : 39.893994,
+                  "lng" : 32.7860941
+               }
+            },
+            "location" : {
+               "lat" : 39.9044356,
+               "lng" : 32.7999862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.910446,
+                  "lng" : 32.808335
+               },
+               "southwest" : {
+                  "lat" : 39.893994,
+                  "lng" : 32.7860941
+               }
+            }
+         },
+         "place_id" : "ChIJoepFswJG0xQR9j6droq5xnk",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.93684,
+                  "lng" : 33.139675
+               },
+               "southwest" : {
+                  "lat" : 39.6581571,
+                  "lng" : 32.625768
+               }
+            },
+            "location" : {
+               "lat" : 39.8451842,
+               "lng" : 32.9212265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.93684,
+                  "lng" : 33.139675
+               },
+               "southwest" : {
+                  "lat" : 39.6581571,
+                  "lng" : 32.625768
+               }
+            }
+         },
+         "place_id" : "ChIJYXI1n61F0xQRHW_97pHGAUs",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            },
+            "location" : {
+               "lat" : 39.9333635,
+               "lng" : 32.8597419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            }
+         },
+         "place_id" : "ChIJsS1zINVH0xQRjSuEwLBX3As",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            },
+            "location" : {
+               "lat" : 39.7805245,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            }
+         },
+         "place_id" : "ChIJ2UbubYMC0xQRePrg-9apYgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

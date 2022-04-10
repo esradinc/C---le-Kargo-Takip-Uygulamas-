@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "344. Caddesi",
+               "short_name" : "344. Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peyami Sefa",
+               "short_name" : "Peyami Sefa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peyami Sefa, 344. Cd. No:20, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.920193,
+               "lng" : 32.892967
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.92154198029149,
+                  "lng" : 32.89431598029149
+               },
+               "southwest" : {
+                  "lat" : 39.9188440197085,
+                  "lng" : 32.8916180197085
+               }
+            }
+         },
+         "place_id" : "ChIJtSpg2CVO0xQRU2yutza71mc",
+         "plus_code" : {
+            "compound_code" : "WVCV+35 Mamak/Ankara, Turkey",
+            "global_code" : "8GFJWVCV+35"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,381 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WJ7H+5F4 Etimesgut/Ankara, Turkey",
+      "global_code" : "8GFJWJ7H+5F4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WJ7H+5F",
+               "short_name" : "WJ7H+5F",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WJ7H+5F Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.913,
+                  "lng" : 32.62875
+               },
+               "southwest" : {
+                  "lat" : 39.912875,
+                  "lng" : 32.628625
+               }
+            },
+            "location" : {
+               "lat" : 39.9128963,
+               "lng" : 32.6287079
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.91428648029149,
+                  "lng" : 32.6300364802915
+               },
+               "southwest" : {
+                  "lat" : 39.9115885197085,
+                  "lng" : 32.6273385197085
+               }
+            }
+         },
+         "place_id" : "GhIJ2JE0ydn0Q0ARUZ4egHlQQEA",
+         "plus_code" : {
+            "compound_code" : "WJ7H+5F Etimesgut/Ankara, Turkey",
+            "global_code" : "8GFJWJ7H+5F"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara Çevre Yolu",
+               "short_name" : "E89",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ayyıldız",
+               "short_name" : "Ayyıldız",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06790",
+               "short_name" : "06790",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ayyıldız, E89, 06790 Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9136196,
+                  "lng" : 32.63135
+               },
+               "southwest" : {
+                  "lat" : 39.9077414,
+                  "lng" : 32.6273639
+               }
+            },
+            "location" : {
+               "lat" : 39.9106421,
+               "lng" : 32.6294629
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9136196,
+                  "lng" : 32.63135
+               },
+               "southwest" : {
+                  "lat" : 39.9077414,
+                  "lng" : 32.6273639
+               }
+            }
+         },
+         "place_id" : "ChIJA_CyEH050xQRmNDXEPzKf5c",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06790",
+               "short_name" : "06790",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Yapracık",
+               "short_name" : "Yapracık",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yapracık, 06790 Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9198069,
+                  "lng" : 32.633173
+               },
+               "southwest" : {
+                  "lat" : 39.820303,
+                  "lng" : 32.5664121
+               }
+            },
+            "location" : {
+               "lat" : 39.8474,
+               "lng" : 32.593828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9198069,
+                  "lng" : 32.633173
+               },
+               "southwest" : {
+                  "lat" : 39.820303,
+                  "lng" : 32.5664121
+               }
+            }
+         },
+         "place_id" : "ChIJqyCB3p4w0xQR88ILZE9M-gQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yapracık",
+               "short_name" : "Yapracık",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06790",
+               "short_name" : "06790",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yapracık, 06790 Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9198069,
+                  "lng" : 32.633173
+               },
+               "southwest" : {
+                  "lat" : 39.820303,
+                  "lng" : 32.5664121
+               }
+            },
+            "location" : {
+               "lat" : 39.868691,
+               "lng" : 32.5994817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9198069,
+                  "lng" : 32.633173
+               },
+               "southwest" : {
+                  "lat" : 39.820303,
+                  "lng" : 32.5664121
+               }
+            }
+         },
+         "place_id" : "ChIJd82boEQ80xQRfkP2Rwk0td0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0056811,
+                  "lng" : 32.7991839
+               },
+               "southwest" : {
+                  "lat" : 39.723311,
+                  "lng" : 32.4808391
+               }
+            },
+            "location" : {
+               "lat" : 39.9310354,
+               "lng" : 32.650351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0056811,
+                  "lng" : 32.7991839
+               },
+               "southwest" : {
+                  "lat" : 39.723311,
+                  "lng" : 32.4808391
+               }
+            }
+         },
+         "place_id" : "ChIJUd6gB1I40xQRbIb5ymFWD5Q",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            },
+            "location" : {
+               "lat" : 39.7805245,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            }
+         },
+         "place_id" : "ChIJ2UbubYMC0xQRePrg-9apYgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RV4C+4C",
+               "short_name" : "RV4C+4C",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Gölbaşı",
+               "short_name" : "Gölbaşı",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "RV4C+4C Gölbaşı/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.805375,
+                  "lng" : 32.871125
+               },
+               "southwest" : {
+                  "lat" : 39.80525,
+                  "lng" : 32.871
+               }
+            },
+            "location" : {
+               "lat" : 39.8053125,
+               "lng" : 32.8710625
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8066614802915,
+                  "lng" : 32.87241148029149
+               },
+               "southwest" : {
+                  "lat" : 39.8039635197085,
+                  "lng" : 32.8697135197085
+               }
+            }
+         },
+         "place_id" : "GhIJrkfhehTnQ0AR0SLb-X5vQEA",
+         "plus_code" : {
+            "compound_code" : "RV4C+4C Gölbaşı/Ankara, Turkey",
+            "global_code" : "8GFJRV4C+4C"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "VXWX+CG",
+               "short_name" : "VXWX+CG",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "VXWX+CG Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.896125,
+                  "lng" : 32.998875
+               },
+               "southwest" : {
+                  "lat" : 39.896,
+                  "lng" : 32.99875
+               }
+            },
+            "location" : {
+               "lat" : 39.8960625,
+               "lng" : 32.9988125
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8974114802915,
+                  "lng" : 33.0001614802915
+               },
+               "southwest" : {
+                  "lat" : 39.8947135197085,
+                  "lng" : 32.9974635197085
+               }
+            }
+         },
+         "place_id" : "GhIJBFYOLbLyQ0ARAiuHFtl_QEA",
+         "plus_code" : {
+            "compound_code" : "VXWX+CG Mamak/Ankara, Turkey",
+            "global_code" : "8GFJVXWX+CG"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

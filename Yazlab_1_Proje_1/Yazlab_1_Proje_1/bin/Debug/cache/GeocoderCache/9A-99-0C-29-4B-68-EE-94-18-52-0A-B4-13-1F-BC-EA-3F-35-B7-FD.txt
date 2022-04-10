@@ -1,0 +1,679 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WVCV+464 Mamak/Ankara, Turkey",
+      "global_code" : "8GFJWVCV+464"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "344. Caddesi",
+               "short_name" : "344. Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peyami Sefa",
+               "short_name" : "Peyami Sefa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peyami Sefa, 344. Cd. No:20, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.920193,
+               "lng" : 32.892967
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.92154198029149,
+                  "lng" : 32.89431598029149
+               },
+               "southwest" : {
+                  "lat" : 39.9188440197085,
+                  "lng" : 32.8916180197085
+               }
+            }
+         },
+         "place_id" : "ChIJtSpg2CVO0xQRU2yutza71mc",
+         "plus_code" : {
+            "compound_code" : "WVCV+35 Mamak/Ankara, Turkey",
+            "global_code" : "8GFJWVCV+35"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "27",
+               "short_name" : "27",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "356. Caddesi",
+               "short_name" : "356. Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peyami Sefa",
+               "short_name" : "Peyami Sefa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peyami Sefa, 356. Cd. No:27, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.919957,
+                  "lng" : 32.8931302
+               },
+               "southwest" : {
+                  "lat" : 39.9197275,
+                  "lng" : 32.8929437
+               }
+            },
+            "location" : {
+               "lat" : 39.9198588,
+               "lng" : 32.893
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.92119123029151,
+                  "lng" : 32.8943859302915
+               },
+               "southwest" : {
+                  "lat" : 39.91849326970851,
+                  "lng" : 32.89168796970851
+               }
+            }
+         },
+         "place_id" : "ChIJL3F43yVO0xQR2jOB31HyaSk",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "356 Cadde Girişi",
+               "short_name" : "356 Cadde Girişi",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Peyami Sefa",
+               "short_name" : "Peyami Sefa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peyami Sefa, 356 Cadde Girişi, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9196771,
+               "lng" : 32.8926118
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9210260802915,
+                  "lng" : 32.89396078029149
+               },
+               "southwest" : {
+                  "lat" : 39.91832811970851,
+                  "lng" : 32.8912628197085
+               }
+            }
+         },
+         "place_id" : "ChIJGTS25iVO0xQRR0t5JZ6ta-o",
+         "plus_code" : {
+            "compound_code" : "WV9V+V2 Mamak/Ankara, Turkey",
+            "global_code" : "8GFJWV9V+V2"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "344. Caddesi",
+               "short_name" : "344. Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peyami Sefa",
+               "short_name" : "Peyami Sefa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peyami Sefa, 344. Cd. No:22, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9204054,
+               "lng" : 32.8931795
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9217543802915,
+                  "lng" : 32.8945284802915
+               },
+               "southwest" : {
+                  "lat" : 39.9190564197085,
+                  "lng" : 32.8918305197085
+               }
+            }
+         },
+         "place_id" : "EjdQZXlhbWkgU2VmYSwgMzQ0LiBDZC4gTm86MjIsIDA2NjMwIE1hbWFrL0Fua2FyYSwgVHVya2V5IhoSGAoUChIJhddU0CVO0xQRoN4sQzygv5sQFg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WVCV+46",
+               "short_name" : "WVCV+46",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WVCV+46 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.920375,
+                  "lng" : 32.893125
+               },
+               "southwest" : {
+                  "lat" : 39.92025,
+                  "lng" : 32.893
+               }
+            },
+            "location" : {
+               "lat" : 39.9202693,
+               "lng" : 32.8930664
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9216614802915,
+                  "lng" : 32.8944114802915
+               },
+               "southwest" : {
+                  "lat" : 39.9189635197085,
+                  "lng" : 32.8917135197085
+               }
+            }
+         },
+         "place_id" : "GhIJpIFpYsv1Q0ARBpTy_09yQEA",
+         "plus_code" : {
+            "compound_code" : "WVCV+46 Mamak/Ankara, Turkey",
+            "global_code" : "8GFJWVCV+46"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-26",
+               "short_name" : "2-26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "344. Caddesi",
+               "short_name" : "344. Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peyami Sefa",
+               "short_name" : "Peyami Sefa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peyami Sefa, 344. Cd. 2-26, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9208352,
+                  "lng" : 32.8940488
+               },
+               "southwest" : {
+                  "lat" : 39.92039949999999,
+                  "lng" : 32.890864
+               }
+            },
+            "location" : {
+               "lat" : 39.9204133,
+               "lng" : 32.8924051
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9219663302915,
+                  "lng" : 32.8940488
+               },
+               "southwest" : {
+                  "lat" : 39.9192683697085,
+                  "lng" : 32.890864
+               }
+            }
+         },
+         "place_id" : "ChIJhddU0CVO0xQRoN4sQzygv5s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Peyami Sefa",
+               "short_name" : "Peyami Sefa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peyami Sefa, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.923474,
+                  "lng" : 32.9026209
+               },
+               "southwest" : {
+                  "lat" : 39.91785489999999,
+                  "lng" : 32.888243
+               }
+            },
+            "location" : {
+               "lat" : 39.920691,
+               "lng" : 32.8972719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.923474,
+                  "lng" : 32.9026209
+               },
+               "southwest" : {
+                  "lat" : 39.91785489999999,
+                  "lng" : 32.888243
+               }
+            }
+         },
+         "place_id" : "ChIJ5dNH-yZO0xQRd3TmPBdNCpA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peyami Sefa",
+               "short_name" : "Peyami Sefa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peyami Sefa, Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.923474,
+                  "lng" : 32.9026209
+               },
+               "southwest" : {
+                  "lat" : 39.9171508,
+                  "lng" : 32.888243
+               }
+            },
+            "location" : {
+               "lat" : 39.920691,
+               "lng" : 32.8972719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.923474,
+                  "lng" : 32.9026209
+               },
+               "southwest" : {
+                  "lat" : 39.9171508,
+                  "lng" : 32.888243
+               }
+            }
+         },
+         "place_id" : "ChIJr3qL-SZO0xQRwlGobYv07CM",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.021705,
+                  "lng" : 33.16750090000001
+               },
+               "southwest" : {
+                  "lat" : 39.788449,
+                  "lng" : 32.8759609
+               }
+            },
+            "location" : {
+               "lat" : 39.9124056,
+               "lng" : 33.0563914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.021705,
+                  "lng" : 33.16750090000001
+               },
+               "southwest" : {
+                  "lat" : 39.788449,
+                  "lng" : 32.8759609
+               }
+            }
+         },
+         "place_id" : "ChIJwavMns5W0xQR7mO4yF904gY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            },
+            "location" : {
+               "lat" : 39.9333635,
+               "lng" : 32.8597419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            }
+         },
+         "place_id" : "ChIJsS1zINVH0xQRjSuEwLBX3As",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            },
+            "location" : {
+               "lat" : 39.7805245,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            }
+         },
+         "place_id" : "ChIJ2UbubYMC0xQRePrg-9apYgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

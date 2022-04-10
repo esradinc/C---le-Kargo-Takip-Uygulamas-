@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1970/2. Sokak",
+               "short_name" : "1970/2. Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yeşilöz",
+               "short_name" : "Yeşilöz",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06300",
+               "short_name" : "06300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yeşilöz, 1970/2. Sk. No:5, 06300 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9858365,
+               "lng" : 32.8950934
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9871854802915,
+                  "lng" : 32.8964423802915
+               },
+               "southwest" : {
+                  "lat" : 39.9844875197085,
+                  "lng" : 32.8937444197085
+               }
+            }
+         },
+         "place_id" : "ChIJQz6ckn5N0xQRCvBxj_0GxMk",
+         "plus_code" : {
+            "compound_code" : "XVPW+82 Keçiören/Ankara, Turkey",
+            "global_code" : "8GFJXVPW+82"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

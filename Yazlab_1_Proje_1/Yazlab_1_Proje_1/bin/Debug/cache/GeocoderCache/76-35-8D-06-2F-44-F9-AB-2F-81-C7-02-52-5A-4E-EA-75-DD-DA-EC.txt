@@ -1,0 +1,626 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "XR33+HGM Yenimahalle/Ankara, Turkey",
+      "global_code" : "8GFJXR33+HGM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2 K",
+               "short_name" : "2 K",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Çiftlik TOKİ Konutları",
+               "short_name" : "Çiftlik TOKİ Konutları",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gayret",
+               "short_name" : "Gayret",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06170",
+               "short_name" : "06170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gayret, Çiftlik TOKİ Konutları 2 K, 06170 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.95405299999999,
+               "lng" : 32.803922
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9554019802915,
+                  "lng" : 32.8052709802915
+               },
+               "southwest" : {
+                  "lat" : 39.9527040197085,
+                  "lng" : 32.8025730197085
+               }
+            }
+         },
+         "place_id" : "ChIJzQPvyzVJ0xQR0MzO6nrGgfk",
+         "plus_code" : {
+            "compound_code" : "XR33+JH Yenimahalle/Ankara, Turkey",
+            "global_code" : "8GFJXR33+JH"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2 O",
+               "short_name" : "2 O",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Çiftlik TOKİ Konutları",
+               "short_name" : "Çiftlik TOKİ Konutları",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gayret",
+               "short_name" : "Gayret",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06170",
+               "short_name" : "06170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gayret, Çiftlik TOKİ Konutları 2 O, 06170 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.95377879999999,
+                  "lng" : 32.8035365
+               },
+               "southwest" : {
+                  "lat" : 39.95352520000001,
+                  "lng" : 32.8032511
+               }
+            },
+            "location" : {
+               "lat" : 39.9536582,
+               "lng" : 32.8033805
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9550009802915,
+                  "lng" : 32.8047427802915
+               },
+               "southwest" : {
+                  "lat" : 39.9523030197085,
+                  "lng" : 32.8020448197085
+               }
+            }
+         },
+         "place_id" : "ChIJwZRxLjRJ0xQReyPyeV4M27M",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Çiftlik TOKİ Konutları",
+               "short_name" : "Çiftlik TOKİ Konutları",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gayret",
+               "short_name" : "Gayret",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06170",
+               "short_name" : "06170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gayret, Çiftlik TOKİ Konutları No:2, 06170 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9540119,
+               "lng" : 32.8034515
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.95536088029149,
+                  "lng" : 32.8048004802915
+               },
+               "southwest" : {
+                  "lat" : 39.95266291970849,
+                  "lng" : 32.80210251970851
+               }
+            }
+         },
+         "place_id" : "EkhHYXlyZXQsIMOHaWZ0bGlrIFRPS8SwIEtvbnV0bGFyxLEgTm86MiwgMDYxNzAgWWVuaW1haGFsbGUvQW5rYXJhLCBUdXJrZXkiGhIYChQKEgmvdN7NNUnTFBFBRYwJLnZvaBAC",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "XR33+HG",
+               "short_name" : "XR33+HG",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "XR33+HG Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.954,
+                  "lng" : 32.803875
+               },
+               "southwest" : {
+                  "lat" : 39.953875,
+                  "lng" : 32.80375
+               }
+            },
+            "location" : {
+               "lat" : 39.9539644,
+               "lng" : 32.8038025
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.95528648029151,
+                  "lng" : 32.8051614802915
+               },
+               "southwest" : {
+                  "lat" : 39.95258851970851,
+                  "lng" : 32.8024635197085
+               }
+            }
+         },
+         "place_id" : "GhIJLcZlgRv6Q0ARtfgUAONmQEA",
+         "plus_code" : {
+            "compound_code" : "XR33+HG Yenimahalle/Ankara, Turkey",
+            "global_code" : "8GFJXR33+HG"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Çiftlik TOKİ Konutları",
+               "short_name" : "Çiftlik TOKİ Konutları",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gayret",
+               "short_name" : "Gayret",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06170",
+               "short_name" : "06170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gayret, Çiftlik TOKİ Konutları No:2, 06170 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9544846,
+                  "lng" : 32.8038854
+               },
+               "southwest" : {
+                  "lat" : 39.9538861,
+                  "lng" : 32.8033361
+               }
+            },
+            "location" : {
+               "lat" : 39.9541854,
+               "lng" : 32.8036107
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9555343302915,
+                  "lng" : 32.8049597302915
+               },
+               "southwest" : {
+                  "lat" : 39.9528363697085,
+                  "lng" : 32.8022617697085
+               }
+            }
+         },
+         "place_id" : "ChIJr3TezTVJ0xQRQEWMCS52b2g",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06170",
+               "short_name" : "06170",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gayret",
+               "short_name" : "Gayret",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gayret, 06170 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.964765,
+                  "lng" : 32.8201999
+               },
+               "southwest" : {
+                  "lat" : 39.952554,
+                  "lng" : 32.795146
+               }
+            },
+            "location" : {
+               "lat" : 39.9578684,
+               "lng" : 32.8056285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.964765,
+                  "lng" : 32.8201999
+               },
+               "southwest" : {
+                  "lat" : 39.952554,
+                  "lng" : 32.795146
+               }
+            }
+         },
+         "place_id" : "ChIJFejhRUtJ0xQR3ifqlRSfP2s",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gayret",
+               "short_name" : "Gayret",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06170",
+               "short_name" : "06170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gayret, 06170 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.964765,
+                  "lng" : 32.8201999
+               },
+               "southwest" : {
+                  "lat" : 39.952554,
+                  "lng" : 32.795146
+               }
+            },
+            "location" : {
+               "lat" : 39.9578684,
+               "lng" : 32.8056285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.964765,
+                  "lng" : 32.8201999
+               },
+               "southwest" : {
+                  "lat" : 39.952554,
+                  "lng" : 32.795146
+               }
+            }
+         },
+         "place_id" : "ChIJFejhRUtJ0xQRbqIWbaJFz3s",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.104982,
+                  "lng" : 32.84711910000001
+               },
+               "southwest" : {
+                  "lat" : 39.91101,
+                  "lng" : 32.5632019
+               }
+            },
+            "location" : {
+               "lat" : 39.9905034,
+               "lng" : 32.6955445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.104982,
+                  "lng" : 32.84711910000001
+               },
+               "southwest" : {
+                  "lat" : 39.91101,
+                  "lng" : 32.5632019
+               }
+            }
+         },
+         "place_id" : "ChIJNSxNGK850xQRj1dOXZvKxmg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            },
+            "location" : {
+               "lat" : 39.9333635,
+               "lng" : 32.8597419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            }
+         },
+         "place_id" : "ChIJsS1zINVH0xQRjSuEwLBX3As",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            },
+            "location" : {
+               "lat" : 39.7805245,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            }
+         },
+         "place_id" : "ChIJ2UbubYMC0xQRePrg-9apYgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

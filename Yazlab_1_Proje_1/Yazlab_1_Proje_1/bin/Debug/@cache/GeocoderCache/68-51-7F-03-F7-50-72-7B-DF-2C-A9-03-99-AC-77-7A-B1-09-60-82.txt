@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WP29+GF",
+               "short_name" : "WP29+GF",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WP29+GF Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.901375,
+                  "lng" : 32.71875
+               },
+               "southwest" : {
+                  "lat" : 39.90125,
+                  "lng" : 32.718625
+               }
+            },
+            "location" : {
+               "lat" : 39.9013125,
+               "lng" : 32.7186875
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9026614802915,
+                  "lng" : 32.7200364802915
+               },
+               "southwest" : {
+                  "lat" : 39.8999635197085,
+                  "lng" : 32.71733851970851
+               }
+            }
+         },
+         "place_id" : "GhIJ7Xw_NV7zQ0ARokW28_1bQEA",
+         "plus_code" : {
+            "compound_code" : "WP29+GF Çankaya/Ankara, Turkey",
+            "global_code" : "8GFJWP29+GF"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

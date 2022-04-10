@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbUe7g-E50xQR8p8Dc_FoOlQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-T-5fF830xQRVz_m5CbbP6M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9508106,
+               "lng" : 32.6468419
+            },
+            "southwest" : {
+               "lat" : 39.94901,
+               "lng" : 32.6449991
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 km",
+                  "value" : 343
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 146
+               },
+               "end_address" : "Süvari, 1695. Sk. No:10, 06794 Etimesgut/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.9506793,
+                  "lng" : 32.6468419
+               },
+               "start_address" : "Süvari, 1687. Sk. No:25, 06794 Etimesgut/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.94901,
+                  "lng" : 32.6449991
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 174
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 39.9505566,
+                        "lng" : 32.6452743
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e1687. Sk.\u003c/b\u003e toward \u003cb\u003e1698. Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ipyrFg~ffEoCSeDa@"
+                     },
+                     "start_location" : {
+                        "lat" : 39.94901,
+                        "lng" : 32.6449991
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "51 m",
+                        "value" : 51
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 39.9504749,
+                        "lng" : 32.6458656
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 2nd cross street onto \u003cb\u003e1694. Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_zyrF}_gfEPwB"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9505566,
+                        "lng" : 32.6452743
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "37 m",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 39.9508106,
+                        "lng" : 32.6459052
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e1688. Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "myyrFucgfEcAG"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9504749,
+                        "lng" : 32.6458656
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 39.9506793,
+                        "lng" : 32.6468419
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e1695. Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "q{yrF}cgfELsBJeA"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9508106,
+                        "lng" : 32.6459052
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ipyrFg~ffEoCSeDa@PwBcAGXyD"
+         },
+         "summary" : "1687. Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mustafa Asım Köksal Caddesi",
+               "short_name" : "Mustafa Asım Köksal Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "19 Mayıs",
+               "short_name" : "19 Mayıs",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06290",
+               "short_name" : "06290",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19 Mayıs, Mustafa Asım Köksal Cd. No:38, 06290 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.98469,
+               "lng" : 32.856567
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9860389802915,
+                  "lng" : 32.85791598029149
+               },
+               "southwest" : {
+                  "lat" : 39.9833410197085,
+                  "lng" : 32.8552180197085
+               }
+            }
+         },
+         "place_id" : "ChIJk77iYrJN0xQRuo-EZRbbsmQ",
+         "plus_code" : {
+            "compound_code" : "XVM4+VJ Keçiören/Ankara, Turkey",
+            "global_code" : "8GFJXVM4+VJ"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2J6X+PC",
+               "short_name" : "2J6X+PC",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2J6X+PC Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.011875,
+                  "lng" : 32.648625
+               },
+               "southwest" : {
+                  "lat" : 40.01175,
+                  "lng" : 32.64850000000001
+               }
+            },
+            "location" : {
+               "lat" : 40.0118125,
+               "lng" : 32.6485625
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.01316148029149,
+                  "lng" : 32.6499114802915
+               },
+               "southwest" : {
+                  "lat" : 40.01046351970849,
+                  "lng" : 32.6472135197085
+               }
+            }
+         },
+         "place_id" : "GhIJjZduEoMBREARvHSTGARTQEA",
+         "plus_code" : {
+            "compound_code" : "2J6X+PC Yenimahalle/Ankara, Turkey",
+            "global_code" : "8GGJ2J6X+PC"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

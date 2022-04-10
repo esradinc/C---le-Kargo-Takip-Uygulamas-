@@ -1,0 +1,557 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WV6H+8P8 Mamak/Ankara, Turkey",
+      "global_code" : "8GFJWV6H+8P8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "315",
+               "short_name" : "315",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ziya Oralay Caddesi",
+               "short_name" : "Ziya Oralay Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Türközü",
+               "short_name" : "Türközü",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Türközü, Ziya Oralay Cd. No:315, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.910745,
+               "lng" : 32.879469
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.91209398029149,
+                  "lng" : 32.8808179802915
+               },
+               "southwest" : {
+                  "lat" : 39.9093960197085,
+                  "lng" : 32.8781200197085
+               }
+            }
+         },
+         "place_id" : "ChIJhYy0sctP0xQRUBbeQsX9u1I",
+         "plus_code" : {
+            "compound_code" : "WV6H+7Q Mamak/Ankara, Turkey",
+            "global_code" : "8GFJWV6H+7Q"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "303",
+               "short_name" : "303",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ziya Oralay Caddesi",
+               "short_name" : "Ziya Oralay Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Metin Oktay",
+               "short_name" : "Metin Oktay",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06670",
+               "short_name" : "06670",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metin Oktay, Ziya Oralay Cd. No:303, 06670 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9106739,
+               "lng" : 32.879261
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9120228802915,
+                  "lng" : 32.8806099802915
+               },
+               "southwest" : {
+                  "lat" : 39.9093249197085,
+                  "lng" : 32.8779120197085
+               }
+            }
+         },
+         "place_id" : "EkJNZXRpbiBPa3RheSwgWml5YSBPcmFsYXkgQ2QuIE5vOjMwMywgMDY2NzAgw4dhbmtheWEvQW5rYXJhLCBUdXJrZXkiGxIZChQKEgkXWiSzy0_TFBEhW_V1N5dUyxCvAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WV6H+8P",
+               "short_name" : "WV6H+8P",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WV6H+8P Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.910875,
+                  "lng" : 32.879375
+               },
+               "southwest" : {
+                  "lat" : 39.91075,
+                  "lng" : 32.87925
+               }
+            },
+            "location" : {
+               "lat" : 39.9107896,
+               "lng" : 32.8793335
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.91216148029149,
+                  "lng" : 32.88066148029149
+               },
+               "southwest" : {
+                  "lat" : 39.9094635197085,
+                  "lng" : 32.87796351970849
+               }
+            }
+         },
+         "place_id" : "GhIJusTswJT0Q0ARfGMIAI5wQEA",
+         "plus_code" : {
+            "compound_code" : "WV6H+8P Mamak/Ankara, Turkey",
+            "global_code" : "8GFJWV6H+8P"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "313-283",
+               "short_name" : "313-283",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ziya Oralay Caddesi",
+               "short_name" : "Ziya Oralay Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Türközü",
+               "short_name" : "Türközü",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06670",
+               "short_name" : "06670",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Türközü, Ziya Oralay Cd. 313-283, 06670 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9110888,
+                  "lng" : 32.8793605
+               },
+               "southwest" : {
+                  "lat" : 39.9106361,
+                  "lng" : 32.8787319
+               }
+            },
+            "location" : {
+               "lat" : 39.9108056,
+               "lng" : 32.878974
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9122114302915,
+                  "lng" : 32.8803951802915
+               },
+               "southwest" : {
+                  "lat" : 39.9095134697085,
+                  "lng" : 32.8776972197085
+               }
+            }
+         },
+         "place_id" : "ChIJF1oks8tP0xQRIFv1dTeXVMs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Türközü",
+               "short_name" : "Türközü",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Türközü, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9167569,
+                  "lng" : 32.8964619
+               },
+               "southwest" : {
+                  "lat" : 39.902379,
+                  "lng" : 32.8780751
+               }
+            },
+            "location" : {
+               "lat" : 39.9118824,
+               "lng" : 32.888816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9167569,
+                  "lng" : 32.8964619
+               },
+               "southwest" : {
+                  "lat" : 39.902379,
+                  "lng" : 32.8780751
+               }
+            }
+         },
+         "place_id" : "ChIJh2ndYs1P0xQRsn3xaA_1dJo",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06630",
+               "short_name" : "06630",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Türközü",
+               "short_name" : "Türközü",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Türközü, 06630 Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9173,
+                  "lng" : 32.8964619
+               },
+               "southwest" : {
+                  "lat" : 39.902379,
+                  "lng" : 32.8780751
+               }
+            },
+            "location" : {
+               "lat" : 39.9118824,
+               "lng" : 32.888816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9173,
+                  "lng" : 32.8964619
+               },
+               "southwest" : {
+                  "lat" : 39.902379,
+                  "lng" : 32.8780751
+               }
+            }
+         },
+         "place_id" : "ChIJSSKaYc1P0xQRai-Gu-335Qs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mamak/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.021705,
+                  "lng" : 33.16750090000001
+               },
+               "southwest" : {
+                  "lat" : 39.788449,
+                  "lng" : 32.8759609
+               }
+            },
+            "location" : {
+               "lat" : 39.9124056,
+               "lng" : 33.0563914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.021705,
+                  "lng" : 33.16750090000001
+               },
+               "southwest" : {
+                  "lat" : 39.788449,
+                  "lng" : 32.8759609
+               }
+            }
+         },
+         "place_id" : "ChIJwavMns5W0xQR7mO4yF904gY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            },
+            "location" : {
+               "lat" : 39.9333635,
+               "lng" : 32.8597419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            }
+         },
+         "place_id" : "ChIJsS1zINVH0xQRjSuEwLBX3As",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            },
+            "location" : {
+               "lat" : 39.7805245,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            }
+         },
+         "place_id" : "ChIJ2UbubYMC0xQRePrg-9apYgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

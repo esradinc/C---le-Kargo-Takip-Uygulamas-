@@ -1,0 +1,557 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "XVQC+3C5 Keçiören/Ankara, Turkey",
+      "global_code" : "8GFJXVQC+3C5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Şehit Murat Azizo Sokak",
+               "short_name" : "Şht. Murat Azizo Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Güçlükaya",
+               "short_name" : "Güçlükaya",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06310",
+               "short_name" : "06310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Güçlükaya, Şht. Murat Azizo Sk. No:18, 06310 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.98771,
+               "lng" : 32.870999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9890589802915,
+                  "lng" : 32.87234798029149
+               },
+               "southwest" : {
+                  "lat" : 39.9863610197085,
+                  "lng" : 32.8696500197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4_cx1qBN0xQR8tngJLdpmJs",
+         "plus_code" : {
+            "compound_code" : "XVQC+39 Keçiören/Ankara, Turkey",
+            "global_code" : "8GFJXVQC+39"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Çekirge Caddesi",
+               "short_name" : "Çekirge Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Güçlükaya",
+               "short_name" : "Güçlükaya",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06310",
+               "short_name" : "06310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Güçlükaya, Çekirge Cd. No:30, 06310 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.98789439999999,
+               "lng" : 32.8710716
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9892433802915,
+                  "lng" : 32.8724205802915
+               },
+               "southwest" : {
+                  "lat" : 39.9865454197085,
+                  "lng" : 32.8697226197085
+               }
+            }
+         },
+         "place_id" : "EkFHw7zDp2zDvGtheWEsIMOHZWtpcmdlIENkLiBObzozMCwgMDYzMTAgS2XDp2nDtnJlbi9BbmthcmEsIFR1cmtleSIaEhgKFAoSCWnbVd2gTdMUEVrXkv6xgbzMEB4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "XVQC+3C",
+               "short_name" : "XVQC+3C",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "XVQC+3C Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.98775,
+                  "lng" : 32.871125
+               },
+               "southwest" : {
+                  "lat" : 39.987625,
+                  "lng" : 32.871
+               }
+            },
+            "location" : {
+               "lat" : 39.9876428,
+               "lng" : 32.8710938
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9890364802915,
+                  "lng" : 32.87241148029149
+               },
+               "southwest" : {
+                  "lat" : 39.9863385197085,
+                  "lng" : 32.8697135197085
+               }
+            }
+         },
+         "place_id" : "GhIJnxBLFGv-Q0ARyl9rAIBvQEA",
+         "plus_code" : {
+            "compound_code" : "XVQC+3C Keçiören/Ankara, Turkey",
+            "global_code" : "8GFJXVQC+3C"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "31-15",
+               "short_name" : "31-15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Çekirge Caddesi",
+               "short_name" : "Çekirge Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Güçlükaya",
+               "short_name" : "Güçlükaya",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06310",
+               "short_name" : "06310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Güçlükaya, Çekirge Cd. 31-15, 06310 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9879951,
+                  "lng" : 32.8729576
+               },
+               "southwest" : {
+                  "lat" : 39.987877,
+                  "lng" : 32.870746
+               }
+            },
+            "location" : {
+               "lat" : 39.9879361,
+               "lng" : 32.8718518
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9892850302915,
+                  "lng" : 32.8732007802915
+               },
+               "southwest" : {
+                  "lat" : 39.9865870697085,
+                  "lng" : 32.8705028197085
+               }
+            }
+         },
+         "place_id" : "ChIJadtV3aBN0xQRWteS_rGBvMw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Güçlükaya",
+               "short_name" : "Güçlükaya",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06310",
+               "short_name" : "06310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Güçlükaya, 06310 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.988055,
+                  "lng" : 32.8753529
+               },
+               "southwest" : {
+                  "lat" : 39.9778251,
+                  "lng" : 32.86338
+               }
+            },
+            "location" : {
+               "lat" : 39.9825366,
+               "lng" : 32.8690828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.988055,
+                  "lng" : 32.8753529
+               },
+               "southwest" : {
+                  "lat" : 39.9778251,
+                  "lng" : 32.86338
+               }
+            }
+         },
+         "place_id" : "ChIJ1Ys-kqRN0xQRJgosoQWahbI",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06310",
+               "short_name" : "06310",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Güçlükaya",
+               "short_name" : "Güçlükaya",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Güçlükaya, 06310 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.988055,
+                  "lng" : 32.8753529
+               },
+               "southwest" : {
+                  "lat" : 39.9778251,
+                  "lng" : 32.86338
+               }
+            },
+            "location" : {
+               "lat" : 39.9825366,
+               "lng" : 32.8690828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.988055,
+                  "lng" : 32.8753529
+               },
+               "southwest" : {
+                  "lat" : 39.9778251,
+                  "lng" : 32.86338
+               }
+            }
+         },
+         "place_id" : "ChIJ59ThfwVN0xQROPH9d9aQ67I",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.215276,
+                  "lng" : 32.9002911
+               },
+               "southwest" : {
+                  "lat" : 39.9577741,
+                  "lng" : 32.7403329
+               }
+            },
+            "location" : {
+               "lat" : 40.0210623,
+               "lng" : 32.831015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.215276,
+                  "lng" : 32.9002911
+               },
+               "southwest" : {
+                  "lat" : 39.9577741,
+                  "lng" : 32.7403329
+               }
+            }
+         },
+         "place_id" : "ChIJPyxqhX0JgkARRC5yRkOsIo0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            },
+            "location" : {
+               "lat" : 39.9333635,
+               "lng" : 32.8597419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            }
+         },
+         "place_id" : "ChIJsS1zINVH0xQRjSuEwLBX3As",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            },
+            "location" : {
+               "lat" : 39.7805245,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            }
+         },
+         "place_id" : "ChIJ2UbubYMC0xQRePrg-9apYgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

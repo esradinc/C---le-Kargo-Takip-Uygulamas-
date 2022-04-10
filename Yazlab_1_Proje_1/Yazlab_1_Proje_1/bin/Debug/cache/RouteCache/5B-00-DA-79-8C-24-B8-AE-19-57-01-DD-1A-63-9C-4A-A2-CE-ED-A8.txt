@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-T-5fF830xQRVz_m5CbbP6M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ-T-5fF830xQRVz_m5CbbP6M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9506793,
+               "lng" : 32.6468419
+            },
+            "southwest" : {
+               "lat" : 39.9506793,
+               "lng" : 32.6468419
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Süvari, 1695. Sk. No:10, 06794 Etimesgut/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.9506793,
+                  "lng" : 32.6468419
+               },
+               "start_address" : "Süvari, 1695. Sk. No:10, 06794 Etimesgut/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.9506793,
+                  "lng" : 32.6468419
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.9506793,
+                        "lng" : 32.6468419
+                     },
+                     "html_instructions" : "Head on \u003cb\u003e1695. Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wzyrFwigfE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9506793,
+                        "lng" : 32.6468419
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wzyrFwigfE"
+         },
+         "summary" : "1695. Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1927. Sokak",
+               "short_name" : "1927. Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mutlukent",
+               "short_name" : "Mutlukent",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06800",
+               "short_name" : "06800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mutlukent, 1927. Sk. No:23, 06800 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.890761,
+               "lng" : 32.704922
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8921099802915,
+                  "lng" : 32.7062709802915
+               },
+               "southwest" : {
+                  "lat" : 39.8894120197085,
+                  "lng" : 32.7035730197085
+               }
+            }
+         },
+         "place_id" : "ChIJ04UrM4840xQRpTdGsfOkNDQ",
+         "plus_code" : {
+            "compound_code" : "VPR3+8X Çankaya/Ankara, Turkey",
+            "global_code" : "8GFJVPR3+8X"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

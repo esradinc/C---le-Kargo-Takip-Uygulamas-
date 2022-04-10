@@ -1,0 +1,177 @@
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.App.config
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Yazlab_1_Proje_1.exe.config
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Yazlab_1_Proje_1.exe
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Yazlab_1_Proje_1.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\FireSharp.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\RestSharp.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\RestSharp.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.exe
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Form1.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.girisyap.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kayitol.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kullanicisayfasi.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Teslimat_Adres_Ekrani.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Teslimat_Durum_Ekrani.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kargoekleme.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kargoguncelleme.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Sifredegistirme.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Kargosilme.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Teslimatbilgisi.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Castle.Core.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\NSubstitute.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Castle.Core.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\NSubstitute.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.KargolariGoruntule.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Yazlab_1_Proje_1.exe.config
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Yazlab_1_Proje_1.exe
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Yazlab_1_Proje_1.pdb
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Castle.Core.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\FireSharp.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\NSubstitute.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\RestSharp.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.Common.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Security.Claims.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Castle.Core.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\NSubstitute.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\RestSharp.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.App.config
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Form1.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.girisyap.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kargoekleme.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kargoguncelleme.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.KargolariGoruntule.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Kargosilme.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kayitol.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kullanicisayfasi.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Properties.Resources.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Sifredegistirme.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Teslimatbilgisi.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Teslimat_Adres_Ekrani.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Teslimat_Durum_Ekrani.resources
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.GenerateResource.cache
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.CoreCompileInputs.cache
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.exe
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.pdb
+C:\Users\Betül BAŞTAN\Desktop\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Yazlab_1_Proje_1.exe.config
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Yazlab_1_Proje_1.exe
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Yazlab_1_Proje_1.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Castle.Core.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\FireSharp.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\NSubstitute.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\RestSharp.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.Common.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Security.Claims.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Castle.Core.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\NSubstitute.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\RestSharp.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.App.config
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Form1.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.girisyap.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kargoekleme.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kargoguncelleme.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.KargolariGoruntule.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Kargosilme.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kayitol.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.kullanicisayfasi.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Sifredegistirme.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Teslimatbilgisi.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Teslimat_Adres_Ekrani.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.Teslimat_Durum_Ekrani.resources
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.exe
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Masaüstü\Yazlab_1_Proje_1\Yazlab_1_Proje_1\obj\Debug\Yazlab_1_Proje_1.csproj.CopyComplete

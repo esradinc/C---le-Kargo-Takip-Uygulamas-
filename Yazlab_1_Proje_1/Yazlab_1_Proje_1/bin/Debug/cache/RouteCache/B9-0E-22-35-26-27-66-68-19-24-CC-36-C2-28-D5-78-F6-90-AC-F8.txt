@@ -1,0 +1,180 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiU4oFF050xQRplRSpjdDXzU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJY9jJRgA50xQRFog2K2pYl3s",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.90450269999999,
+               "lng" : 32.679143
+            },
+            "southwest" : {
+               "lat" : 39.8959258,
+               "lng" : 32.6373183
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.4 km",
+                  "value" : 5358
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 428
+               },
+               "end_address" : "Erler, Unnamed Road, 06790 Etimesgut/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.90450269999999,
+                  "lng" : 32.6714491
+               },
+               "start_address" : "Bağlıca, Bağlıca Blv. No:69, 06790 Etimesgut/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.89696379999999,
+                  "lng" : 32.6373183
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "3.2 km",
+                        "value" : 3245
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 263
+                     },
+                     "end_location" : {
+                        "lat" : 39.8983136,
+                        "lng" : 32.6743669
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eBağlıca Blv.\u003c/b\u003e toward \u003cb\u003eEski Bağlar Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_korFgnefEWw@?A@A?A?A?AAA?A?A?CAA?AAA?AAAAAAAiAiGWsBEkAOqBMsEA}A?o@Aw@Ao@?W?o@Am@?o@?m@AQ?yBA_@?O@m@?Y?U?m@@C?i@?E@c@@EDe@@A?A@A?A?A@A?A?A?C?A?A?C?A?A?CAA?A?CAAAA?AAAACIyA@_BFkBBm@HyBDm@L_BFm@b@eEd@mEBY@A@A@A@C?A@C?C?A?C?C?E?A?A?A?AA??A?AZoCXgC^oDFm@^wDRaCJaAX{CLmAl@cHBkAKeEGuBGyAK{A?OA{A?Q@eB?UA{@EiAGwAOoBEc@KeAKsAIkACc@OuCCYAS[iDUyDK{A?GKuAIu@Q_ACc@AIGc@AEKc@?Ae@kBKa@c@{AAAOg@EOa@}Ai@uBQw@CW"
+                     },
+                     "start_location" : {
+                        "lat" : 39.89696379999999,
+                        "lng" : 32.6373183
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 300
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 39.9001305,
+                        "lng" : 32.6768555
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003e15 Temmuz Şehitler Blv\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBağlıca Blv.\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "msorFyulfE_@sAAGOi@Ma@ACa@w@GMQYS[][_Ay@WU_BwACE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.8983136,
+                        "lng" : 32.6743669
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 919
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 39.8985497,
+                        "lng" : 32.674589
+                     },
+                     "html_instructions" : "Take the ramp onto \u003cb\u003e15 Temmuz Şehitler Blv\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBağlıca Blv.\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "y~orFkemfEs@_Aq@_AA?AAU]_@m@w@qAEIk@aAACCEQ_@AAQYCCMISEQCA@M@E@ODKFKLCFGLERCR?@@Z@PHV@DDHLNLJ@BZPDBd@Vd@Tp@b@XNd@XRJpBjBlCfCVVb@b@VVf@l@Z`@Vf@d@xA"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9001305,
+                        "lng" : 32.6768555
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 862
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 39.9042798,
+                        "lng" : 32.6712371
+                     },
+                     "html_instructions" : "Take the exit",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "}torFewlfECX?V@d@Dv@Dh@BP@Z?BH^Pf@Lf@D^@D?D?B?@?@A@A@UHK@OBa@FUBM@SBiBXO@SDO@w@JMBE?MBO@WDK@SBiANK@SBu@Js@Js@J}BZC?K@aDd@_@DA@C?cALA?]DE@a@DA?"
+                     },
+                     "start_location" : {
+                        "lat" : 39.8985497,
+                        "lng" : 32.674589
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 39.90450269999999,
+                        "lng" : 32.6714491
+                     },
+                     "html_instructions" : "Enter the roundabout",
+                     "polyline" : {
+                        "points" : "wxprFgblfEAECECGCEECECECEAEA"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9042798,
+                        "lng" : 32.6712371
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_korFgnefEU}@?CEQCCkAkGWsBEkAOqBMsEAmCCoDCuJD{DJs@?UGOK}AHkELgDRmCtA{MBCDO?UAE|AuNxAwOz@qJBkAKeEOoEKkBAmB@{BGeCWgEQiBU_DYgF[iDUyDKcBUkCUcBWwAuAkFy@wC{@mDc@kBa@wAi@eAe@u@uEcEiBeCy@mAuCcFQMSESASB[LOTM`@CTBl@J\\RXNNlBbAdCxAzHnH~@dAr@hAd@xACX@|@PnCHb@^nAFn@ADWJ[DyAP}Cb@aD`@aUxCg@FCEQWWK"
+         },
+         "summary" : "Bağlıca Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

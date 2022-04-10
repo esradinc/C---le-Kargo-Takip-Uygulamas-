@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "46",
+               "short_name" : "46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Şehit Makbule Sokak",
+               "short_name" : "Şht. Makbule Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kavacık Subayevleri",
+               "short_name" : "Kavacık Subayevleri",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06135",
+               "short_name" : "06135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kavacık Subayevleri, Şht. Makbule Sk. No:46, 06135 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.966545,
+               "lng" : 32.867064
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9678939802915,
+                  "lng" : 32.8684129802915
+               },
+               "southwest" : {
+                  "lat" : 39.9651960197085,
+                  "lng" : 32.8657150197085
+               }
+            }
+         },
+         "place_id" : "ChIJs_EisMVN0xQRQdWuEj576aI",
+         "plus_code" : {
+            "compound_code" : "XV88+JR Keçiören/Ankara, Turkey",
+            "global_code" : "8GFJXV88+JR"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

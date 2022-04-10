@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Uzungemiciler Sokak",
+               "short_name" : "Uzungemiciler Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ertuğrulgazi",
+               "short_name" : "Ertuğrulgazi",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06590",
+               "short_name" : "06590",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ertuğrulgazi, Uzungemiciler Sk. No:22, 06590 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9287544,
+               "lng" : 32.8807219
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9301033802915,
+                  "lng" : 32.88207088029149
+               },
+               "southwest" : {
+                  "lat" : 39.9274054197085,
+                  "lng" : 32.8793729197085
+               }
+            }
+         },
+         "place_id" : "ChIJXQaLkT5O0xQRwZOkTusnuwg",
+         "plus_code" : {
+            "compound_code" : "WVHJ+G7 Çankaya/Ankara, Turkey",
+            "global_code" : "8GFJWVHJ+G7"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

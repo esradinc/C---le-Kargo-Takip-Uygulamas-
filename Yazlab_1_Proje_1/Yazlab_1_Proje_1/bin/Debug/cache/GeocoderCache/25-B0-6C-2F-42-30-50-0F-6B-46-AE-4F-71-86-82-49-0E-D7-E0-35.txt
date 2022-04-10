@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "437H+G9",
+               "short_name" : "437H+G9",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Akyurt",
+               "short_name" : "Akyurt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "437H+G9 Akyurt/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.113875,
+                  "lng" : 33.0785
+               },
+               "southwest" : {
+                  "lat" : 40.11375,
+                  "lng" : 33.078375
+               }
+            },
+            "location" : {
+               "lat" : 40.1138125,
+               "lng" : 33.0784375
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1151614802915,
+                  "lng" : 33.0797864802915
+               },
+               "southwest" : {
+                  "lat" : 40.1124635197085,
+                  "lng" : 33.0770885197085
+               }
+            }
+         },
+         "place_id" : "GhIJIbByaJEOREAR16NwPQqKQEA",
+         "plus_code" : {
+            "compound_code" : "437H+G9 Akyurt/Ankara, Turkey",
+            "global_code" : "8GGM437H+G9"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

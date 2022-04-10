@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "XV76+92",
+               "short_name" : "XV76+92",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "XV76+92 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9635,
+                  "lng" : 32.860125
+               },
+               "southwest" : {
+                  "lat" : 39.963375,
+                  "lng" : 32.86
+               }
+            },
+            "location" : {
+               "lat" : 39.9634375,
+               "lng" : 32.8600625
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9647864802915,
+                  "lng" : 32.86141148029149
+               },
+               "southwest" : {
+                  "lat" : 39.9620885197085,
+                  "lng" : 32.85871351970849
+               }
+            }
+         },
+         "place_id" : "GhIJuB6F61H7Q0ARDAIrhxZuQEA",
+         "plus_code" : {
+            "compound_code" : "XV76+92 Keçiören/Ankara, Turkey",
+            "global_code" : "8GFJXV76+92"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

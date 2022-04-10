@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXQaLkT5O0xQRwZOkTusnuwg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXQaLkT5O0xQRwZOkTusnuwg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.928855,
+               "lng" : 32.8805689
+            },
+            "southwest" : {
+               "lat" : 39.928855,
+               "lng" : 32.8805689
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Ertuğrulgazi, Uzungemiciler Sk. No:22, 06590 Çankaya/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.928855,
+                  "lng" : 32.8805689
+               },
+               "start_address" : "Ertuğrulgazi, Uzungemiciler Sk. No:22, 06590 Çankaya/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.928855,
+                  "lng" : 32.8805689
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.928855,
+                        "lng" : 32.8805689
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eUzungemiciler Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "krurFq~tgE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.928855,
+                        "lng" : 32.8805689
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "krurFq~tgE"
+         },
+         "summary" : "Uzungemiciler Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

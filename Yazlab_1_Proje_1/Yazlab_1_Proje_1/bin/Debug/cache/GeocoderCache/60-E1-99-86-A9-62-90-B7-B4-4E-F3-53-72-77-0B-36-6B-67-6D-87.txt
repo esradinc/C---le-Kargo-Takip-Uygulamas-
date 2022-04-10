@@ -1,0 +1,73 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B",
+               "short_name" : "B",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1544. Caddesi",
+               "short_name" : "1544. Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Süvari",
+               "short_name" : "Süvari",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06794",
+               "short_name" : "06794",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Süvari, 1544. Cd. No:22 D:B, 06794 Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9489958,
+               "lng" : 32.6451719
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9503447802915,
+                  "lng" : 32.6465208802915
+               },
+               "southwest" : {
+                  "lat" : 39.9476468197085,
+                  "lng" : 32.6438229197085
+               }
+            }
+         },
+         "place_id" : "ChIJx1pJguE50xQRdNsjfrg_KAs",
+         "plus_code" : {
+            "compound_code" : "WJXW+H3 Etimesgut/Ankara, Turkey",
+            "global_code" : "8GFJWJXW+H3"
+         },
+         "types" : [ "establishment", "point_of_interest", "real_estate_agency" ]
+      }
+   ],
+   "status" : "OK"
+}

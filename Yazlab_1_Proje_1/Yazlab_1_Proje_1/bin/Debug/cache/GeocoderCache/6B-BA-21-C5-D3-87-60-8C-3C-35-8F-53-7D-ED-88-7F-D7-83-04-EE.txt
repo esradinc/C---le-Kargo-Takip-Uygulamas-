@@ -1,0 +1,73 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "47",
+               "short_name" : "47",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Etlik Caddesi",
+               "short_name" : "Etlik Cd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Varlık",
+               "short_name" : "Varlık",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06330",
+               "short_name" : "06330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Varlık, Etlik Cd No:47, 06330 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.960877,
+               "lng" : 32.8458936
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.96222598029149,
+                  "lng" : 32.8472425802915
+               },
+               "southwest" : {
+                  "lat" : 39.9595280197085,
+                  "lng" : 32.8445446197085
+               }
+            }
+         },
+         "place_id" : "ChIJW0CRd4JO0xQR01dsEK3wE20",
+         "plus_code" : {
+            "compound_code" : "XR6W+99 Yenimahalle/Ankara, Turkey",
+            "global_code" : "8GFJXR6W+99"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

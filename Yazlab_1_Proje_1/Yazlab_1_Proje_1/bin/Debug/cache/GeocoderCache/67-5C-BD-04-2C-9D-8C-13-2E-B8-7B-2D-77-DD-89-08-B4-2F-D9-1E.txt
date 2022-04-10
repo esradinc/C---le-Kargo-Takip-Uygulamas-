@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "181. Sokak",
+               "short_name" : "181. Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bahçelievler",
+               "short_name" : "Bahçelievler",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Gölbaşı",
+               "short_name" : "Gölbaşı",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06830",
+               "short_name" : "06830",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bahçelievler, 181. Sk. No:5, 06830 Gölbaşı/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7734999,
+               "lng" : 32.8128453
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7748488802915,
+                  "lng" : 32.8141942802915
+               },
+               "southwest" : {
+                  "lat" : 39.7721509197085,
+                  "lng" : 32.8114963197085
+               }
+            }
+         },
+         "place_id" : "ChIJKbAaSyFC0xQRCwz54AYd1y4",
+         "plus_code" : {
+            "compound_code" : "QRF7+94 Gölbaşı/Ankara, Turkey",
+            "global_code" : "8GFJQRF7+94"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,498 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "XPX5+MJM Yenimahalle/Ankara, Turkey",
+      "global_code" : "8GFJXPX5+MJM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "XPX5+MJ",
+               "short_name" : "XPX5+MJ",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "XPX5+MJ Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.99925,
+                  "lng" : 32.709125
+               },
+               "southwest" : {
+                  "lat" : 39.999125,
+                  "lng" : 32.709
+               }
+            },
+            "location" : {
+               "lat" : 39.999216,
+               "lng" : 32.7090454
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0005364802915,
+                  "lng" : 32.7104114802915
+               },
+               "southwest" : {
+                  "lat" : 39.9978385197085,
+                  "lng" : 32.7077135197085
+               }
+            }
+         },
+         "place_id" : "GhIJ6dFUT-b_Q0ARizDq_8FaQEA",
+         "plus_code" : {
+            "compound_code" : "XPX5+MJ Yenimahalle/Ankara, Turkey",
+            "global_code" : "8GFJXPX5+MJ"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "İvedik Yolu",
+               "short_name" : "İvedik Yolu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Turgut Özal",
+               "short_name" : "Turgut Özal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06370",
+               "short_name" : "06370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turgut Özal, İvedik Yolu, 06370 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9994359,
+                  "lng" : 32.7098103
+               },
+               "southwest" : {
+                  "lat" : 39.9994129,
+                  "lng" : 32.708309
+               }
+            },
+            "location" : {
+               "lat" : 39.9994175,
+               "lng" : 32.7090598
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0007733802915,
+                  "lng" : 32.7104086302915
+               },
+               "southwest" : {
+                  "lat" : 39.9980754197085,
+                  "lng" : 32.7077106697085
+               }
+            }
+         },
+         "place_id" : "ChIJNR490AU20xQRMraqTzcmr5s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "2291. Sokak",
+               "short_name" : "2291. Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Turgut Özal",
+               "short_name" : "Turgut Özal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06370",
+               "short_name" : "06370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turgut Özal, 2291. Sk. No:26, 06370 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.997315,
+               "lng" : 32.708091
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9986639802915,
+                  "lng" : 32.7094399802915
+               },
+               "southwest" : {
+                  "lat" : 39.9959660197085,
+                  "lng" : 32.7067420197085
+               }
+            }
+         },
+         "place_id" : "ChIJNSQLbQU20xQRorz9ZRaLUOg",
+         "plus_code" : {
+            "compound_code" : "XPW5+W6 Yenimahalle/Ankara, Turkey",
+            "global_code" : "8GFJXPW5+W6"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "2291. Sokak",
+               "short_name" : "2291. Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Turgut Özal",
+               "short_name" : "Turgut Özal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06370",
+               "short_name" : "06370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turgut Özal, 2291. Sk. No:26, 06370 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9972276,
+               "lng" : 32.708108
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.99857658029149,
+                  "lng" : 32.70945698029149
+               },
+               "southwest" : {
+                  "lat" : 39.9958786197085,
+                  "lng" : 32.70675901970849
+               }
+            }
+         },
+         "place_id" : "Ej9UdXJndXQgw5Z6YWwsIDIyOTEuIFNrLiBObzoyNiwgMDYzNzAgWWVuaW1haGFsbGUvQW5rYXJhLCBUdXJrZXkiGhIYChQKEglxPClmBTbTFBFjin5x54XIbBAa",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turgut Özal",
+               "short_name" : "Turgut Özal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06370",
+               "short_name" : "06370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Turgut Özal, 06370 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.999601,
+                  "lng" : 32.7312129
+               },
+               "southwest" : {
+                  "lat" : 39.983067,
+                  "lng" : 32.687943
+               }
+            },
+            "location" : {
+               "lat" : 39.9928663,
+               "lng" : 32.7096666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.999601,
+                  "lng" : 32.7312129
+               },
+               "southwest" : {
+                  "lat" : 39.983067,
+                  "lng" : 32.687943
+               }
+            }
+         },
+         "place_id" : "ChIJPacYMxo20xQRr8oMSe4N43M",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06370",
+               "short_name" : "06370",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "06370 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.999601,
+                  "lng" : 32.733376
+               },
+               "southwest" : {
+                  "lat" : 39.983067,
+                  "lng" : 32.6874389
+               }
+            },
+            "location" : {
+               "lat" : 39.9928663,
+               "lng" : 32.7096666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.999601,
+                  "lng" : 32.733376
+               },
+               "southwest" : {
+                  "lat" : 39.983067,
+                  "lng" : 32.6874389
+               }
+            }
+         },
+         "place_id" : "ChIJRSItxhs20xQRK5gJkLUv_V0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.104982,
+                  "lng" : 32.84711910000001
+               },
+               "southwest" : {
+                  "lat" : 39.91101,
+                  "lng" : 32.5632019
+               }
+            },
+            "location" : {
+               "lat" : 39.9905034,
+               "lng" : 32.6955445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.104982,
+                  "lng" : 32.84711910000001
+               },
+               "southwest" : {
+                  "lat" : 39.91101,
+                  "lng" : 32.5632019
+               }
+            }
+         },
+         "place_id" : "ChIJNSxNGK850xQRj1dOXZvKxmg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            },
+            "location" : {
+               "lat" : 39.7805245,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            }
+         },
+         "place_id" : "ChIJ2UbubYMC0xQRePrg-9apYgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,673 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "WVXC+FXP Altındağ/Ankara, Turkey",
+      "global_code" : "8GFJWVXC+FXP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "196",
+               "short_name" : "196",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Altındağ Caddesi",
+               "short_name" : "Altındağ Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atıfbey",
+               "short_name" : "Atıfbey",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06080",
+               "short_name" : "06080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atıfbey, Altındağ Cd. No:196, 06080 Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9487413,
+               "lng" : 32.87267990000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9500902802915,
+                  "lng" : 32.87402888029151
+               },
+               "southwest" : {
+                  "lat" : 39.94739231970851,
+                  "lng" : 32.87133091970851
+               }
+            }
+         },
+         "place_id" : "ChIJp71yZXRO0xQR_qbVKlRejk8",
+         "plus_code" : {
+            "compound_code" : "WVXF+F3 Altındağ/Ankara, Turkey",
+            "global_code" : "8GFJWVXF+F3"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "198",
+               "short_name" : "198",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Altındağ Caddesi",
+               "short_name" : "Altındağ Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atıfbey",
+               "short_name" : "Atıfbey",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06080",
+               "short_name" : "06080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atıfbey, Altındağ Cd. No:198, 06080 Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9485651,
+               "lng" : 32.8727522
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.94991408029149,
+                  "lng" : 32.8741011802915
+               },
+               "southwest" : {
+                  "lat" : 39.94721611970849,
+                  "lng" : 32.8714032197085
+               }
+            }
+         },
+         "place_id" : "ChIJbyQoe3RO0xQRi95pIuB7HHM",
+         "plus_code" : {
+            "compound_code" : "WVXF+C4 Altındağ/Ankara, Turkey",
+            "global_code" : "8GFJWVXF+C4"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doğanşehir Mahallesi",
+               "short_name" : "Doğanşehir Mahallesi",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Atıfbey",
+               "short_name" : "Atıfbey",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06080",
+               "short_name" : "06080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atıfbey, Doğanşehir Mahallesi, 06080 Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.94909,
+               "lng" : 32.87261
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.95043898029149,
+                  "lng" : 32.8739589802915
+               },
+               "southwest" : {
+                  "lat" : 39.9477410197085,
+                  "lng" : 32.8712610197085
+               }
+            }
+         },
+         "place_id" : "ChIJF7IqZnRO0xQRgswB1ClbN5E",
+         "plus_code" : {
+            "compound_code" : "WVXF+J2 Altındağ/Ankara, Turkey",
+            "global_code" : "8GFJWVXF+J2"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "196",
+               "short_name" : "196",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Altındağ Caddesi",
+               "short_name" : "Altındağ Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atıfbey",
+               "short_name" : "Atıfbey",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06080",
+               "short_name" : "06080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atıfbey, Altındağ Cd. No:196, 06080 Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9487673,
+               "lng" : 32.872786
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9501162802915,
+                  "lng" : 32.87413498029149
+               },
+               "southwest" : {
+                  "lat" : 39.9474183197085,
+                  "lng" : 32.87143701970849
+               }
+            }
+         },
+         "place_id" : "EkBBdMSxZmJleSwgQWx0xLFuZGHEnyBDZC4gTm86MTk2LCAwNjA4MCBBbHTEsW5kYcSfL0Fua2FyYSwgVHVya2V5IhsSGQoUChIJMYNSZHRO0xQRAgn5kydN5MAQxAE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WVXC+FX",
+               "short_name" : "WVXC+FX",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WVXC+FX Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.94875,
+                  "lng" : 32.8725
+               },
+               "southwest" : {
+                  "lat" : 39.948625,
+                  "lng" : 32.872375
+               }
+            },
+            "location" : {
+               "lat" : 39.9487006,
+               "lng" : 32.872467
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.95003648029149,
+                  "lng" : 32.8737864802915
+               },
+               "southwest" : {
+                  "lat" : 39.9473385197085,
+                  "lng" : 32.8710885197085
+               }
+            }
+         },
+         "place_id" : "GhIJCFlxBW_5Q0ARbOun_6xvQEA",
+         "plus_code" : {
+            "compound_code" : "WVXC+FX Altındağ/Ankara, Turkey",
+            "global_code" : "8GFJWVXC+FX"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "192-198",
+               "short_name" : "192-198",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Altındağ Caddesi",
+               "short_name" : "Altındağ Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atıfbey",
+               "short_name" : "Atıfbey",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06080",
+               "short_name" : "06080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atıfbey, Altındağ Cd. 192-198, 06080 Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.94898999999999,
+                  "lng" : 32.8728706
+               },
+               "southwest" : {
+                  "lat" : 39.94856470000001,
+                  "lng" : 32.872693
+               }
+            },
+            "location" : {
+               "lat" : 39.9487774,
+               "lng" : 32.8727818
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9501263302915,
+                  "lng" : 32.87413078029149
+               },
+               "southwest" : {
+                  "lat" : 39.9474283697085,
+                  "lng" : 32.8714328197085
+               }
+            }
+         },
+         "place_id" : "ChIJMYNSZHRO0xQRAgn5kydN5MA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06080",
+               "short_name" : "06080",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Atıfbey",
+               "short_name" : "Atıfbey",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atıfbey, 06080 Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.952375,
+                  "lng" : 32.8736129
+               },
+               "southwest" : {
+                  "lat" : 39.941606,
+                  "lng" : 32.8610921
+               }
+            },
+            "location" : {
+               "lat" : 39.9466548,
+               "lng" : 32.8662635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.952375,
+                  "lng" : 32.8736129
+               },
+               "southwest" : {
+                  "lat" : 39.941606,
+                  "lng" : 32.8610921
+               }
+            }
+         },
+         "place_id" : "ChIJ1YAlUnBO0xQRLCxibJ6qd4Q",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atıfbey",
+               "short_name" : "Atıfbey",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atıfbey, Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.952375,
+                  "lng" : 32.8736129
+               },
+               "southwest" : {
+                  "lat" : 39.941606,
+                  "lng" : 32.8610921
+               }
+            },
+            "location" : {
+               "lat" : 39.9488564,
+               "lng" : 32.868378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.952375,
+                  "lng" : 32.8736129
+               },
+               "southwest" : {
+                  "lat" : 39.941606,
+                  "lng" : 32.8610921
+               }
+            }
+         },
+         "place_id" : "ChIJ8SxRTnFO0xQRwt4XHsb_Vs4",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0570421,
+                  "lng" : 33.1173301
+               },
+               "southwest" : {
+                  "lat" : 39.928408,
+                  "lng" : 32.8307209
+               }
+            },
+            "location" : {
+               "lat" : 40.0092683,
+               "lng" : 32.9833371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0570421,
+                  "lng" : 33.1173301
+               },
+               "southwest" : {
+                  "lat" : 39.928408,
+                  "lng" : 32.8307209
+               }
+            }
+         },
+         "place_id" : "ChIJFViTEmgHgkARyu6AxEhAUYQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            },
+            "location" : {
+               "lat" : 39.9333635,
+               "lng" : 32.8597419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            }
+         },
+         "place_id" : "ChIJsS1zINVH0xQRjSuEwLBX3As",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            },
+            "location" : {
+               "lat" : 39.7805245,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            }
+         },
+         "place_id" : "ChIJ2UbubYMC0xQRePrg-9apYgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

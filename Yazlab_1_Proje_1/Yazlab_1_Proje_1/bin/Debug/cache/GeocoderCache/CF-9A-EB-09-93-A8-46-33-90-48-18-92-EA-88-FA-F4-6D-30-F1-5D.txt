@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6P65+X3",
+               "short_name" : "6P65+X3",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Kahramankazan",
+               "short_name" : "Kahramankazan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "6P65+X3 Kahramankazan/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2125,
+                  "lng" : 32.70775
+               },
+               "southwest" : {
+                  "lat" : 40.212375,
+                  "lng" : 32.707625
+               }
+            },
+            "location" : {
+               "lat" : 40.2124375,
+               "lng" : 32.7076875
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2137864802915,
+                  "lng" : 32.70903648029149
+               },
+               "southwest" : {
+                  "lat" : 40.2110885197085,
+                  "lng" : 32.7063385197085
+               }
+            }
+         },
+         "place_id" : "GhIJ1XjpJjEbREAR3SQGgZVaQEA",
+         "plus_code" : {
+            "compound_code" : "6P65+X3 Kahramankazan/Ankara, Turkey",
+            "global_code" : "8GGJ6P65+X3"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

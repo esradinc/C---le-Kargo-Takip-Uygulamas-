@@ -1,0 +1,156 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJY9jJRgA50xQRFog2K2pYl3s",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiU4oFF050xQRplRSpjdDXzU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.9048013,
+               "lng" : 32.6724098
+            },
+            "southwest" : {
+               "lat" : 39.8924478,
+               "lng" : 32.6270946
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "6.0 km",
+                  "value" : 5956
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 519
+               },
+               "end_address" : "Bağlıca, Bağlıca Blv. No:69, 06790 Etimesgut/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.89696379999999,
+                  "lng" : 32.6373183
+               },
+               "start_address" : "Erler, Unnamed Road, 06790 Etimesgut/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.9045563,
+                  "lng" : 32.6714489
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 141
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 39.9042576,
+                        "lng" : 32.671109
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ozprFqclfEC?IBEBEDCBEDCFAFCFAF?F?D?@?F@H?B@B@FBDBFBDDBDBDB@?B@D@F?JCB?DCDCBCDEBEBG@G@G@G?G?E"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9045563,
+                        "lng" : 32.6714489
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1232
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 39.89666769999999,
+                        "lng" : 32.6666832
+                     },
+                     "html_instructions" : "Exit the roundabout",
+                     "polyline" : {
+                        "points" : "sxprFmalfETEPCr@ILCTCLCB?vASb@GLAv@MtFw@d@Eb@GdAMb@Gb@GLAv@Kb@G@?bAOb@Gr@Kt@Kb@E\\ETAF?HB@?BBBBJPXl@FLJV\\z@DRLj@Nt@HpADh@?B@|A@|@AvCAtA@fABp@J^X^b@ZRXLZHZBLDHFJ"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9042576,
+                        "lng" : 32.671109
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.6 km",
+                        "value" : 3570
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 344
+                     },
+                     "end_location" : {
+                        "lat" : 39.8925539,
+                        "lng" : 32.6270946
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBağlıca Blv.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "eiorFwekfE@RJbBD`@Dl@BXBRFl@NtADr@@N@\\Bl@@R@ZDl@@j@Ap@AxA@p@?JDdAB`@@VBZD~@HvBDxA@V@T?V?@@t@?@Ab@?@?RCV?@Et@Gd@I~@UvBAJE^CTCVCRc@tDUvBGl@eA|J]zCGj@?BMdAA@?@A??@A@?@A??@?@A??@?@A@?@?@?@?@?@?@@??@?@?@@??@@??@UhCKtAKr@?DIn@M`AGn@Eh@KzAEl@AHAb@KbCCpCGnCA@A@?BA??@?@A@?B?@?@?B?@?@?B?@?@@B?@?@@@?B@@@@@@@@BB?XAvG?n@?PDnI?`@B~CFtCBdAJjBBX@LL~AzAlI?@A@?@?@?@A??@?@?@?@@@?@?@@@?@@@@@?@@?@@@??@@?n@hCRp@rAfERh@Rf@pAlDvCfIb@nARf@v@vB^fAfAxCbA~ChA|Cf@tALf@@D^bAb@pAPf@BH"
+                     },
+                     "start_location" : {
+                        "lat" : 39.89666769999999,
+                        "lng" : 32.6666832
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1013
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 39.89696379999999,
+                        "lng" : 32.6373183
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eEnerji Cd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "monrFincfER_@k@cBo@kB[y@]aAk@cB[{@aAsC{@eCs@mB}AmE{AgE}D_LsAiEi@iB"
+                     },
+                     "start_location" : {
+                        "lat" : 39.8925539,
+                        "lng" : 32.6270946
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ozprFqclfEMBKHOXE\\@VJXTPRBZKPWD_@?ETEdAMt@KfQ_CzG}@jDc@\\AJBFFd@~@Rd@b@nA\\`BNzB@`B?tE?|CBp@J^X^b@ZRXVv@HVFJ@RPdCThCVxCHzBFxACjC@|@HfBDr@NvDH~C?|ACn@m@rGmAzKcC~TGNAJBH@@m@xGWpBMxAUvDOtGIpCCFARBTDDDD?XAfID`JB`EJzE^rFxApIAHBJDF@@r@jCfBxFf@pA`HlRvA~DjCxH`C`HxAfER_@k@cBkAeDgDuJiHiS}D_LsAiEi@iB"
+         },
+         "summary" : "Bağlıca Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

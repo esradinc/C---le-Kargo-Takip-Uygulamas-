@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "69",
+               "short_name" : "69",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bağlıca Bulvarı",
+               "short_name" : "Bağlıca Blv.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bağlıca",
+               "short_name" : "Bağlıca",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06790",
+               "short_name" : "06790",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bağlıca, Bağlıca Blv. No:69, 06790 Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.8968104,
+               "lng" : 32.6374247
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8981593802915,
+                  "lng" : 32.63877368029149
+               },
+               "southwest" : {
+                  "lat" : 39.8954614197085,
+                  "lng" : 32.63607571970849
+               }
+            }
+         },
+         "place_id" : "ChIJiU4oFF050xQRplRSpjdDXzU",
+         "plus_code" : {
+            "compound_code" : "VJWP+PX Etimesgut/Ankara, Turkey",
+            "global_code" : "8GFJVJWP+PX"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

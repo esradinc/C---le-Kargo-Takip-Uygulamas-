@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "XWQM+VP",
+               "short_name" : "XWQM+VP",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "XWQM+VP Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.98975,
+                  "lng" : 32.934375
+               },
+               "southwest" : {
+                  "lat" : 39.989625,
+                  "lng" : 32.93425
+               }
+            },
+            "location" : {
+               "lat" : 39.9896875,
+               "lng" : 32.9343125
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.99103648029151,
+                  "lng" : 32.93566148029149
+               },
+               "southwest" : {
+                  "lat" : 39.98833851970851,
+                  "lng" : 32.9329635197085
+               }
+            }
+         },
+         "place_id" : "GhIJR-F6FK7-Q0ARO99PjZd3QEA",
+         "plus_code" : {
+            "compound_code" : "XWQM+VP Altındağ/Ankara, Turkey",
+            "global_code" : "8GFJXWQM+VP"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

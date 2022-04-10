@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "88 C",
+               "short_name" : "88 C",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Şehit Mustafa Ercigez Caddesi",
+               "short_name" : "Şht. Mustafa Ercigez Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Esertepe",
+               "short_name" : "Esertepe",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06220",
+               "short_name" : "06220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Esertepe, Şht. Mustafa Ercigez Cd. 88 C, 06220 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0018399,
+               "lng" : 32.8333458
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0031888802915,
+                  "lng" : 32.83469478029149
+               },
+               "southwest" : {
+                  "lat" : 40.0004909197085,
+                  "lng" : 32.8319968197085
+               }
+            }
+         },
+         "place_id" : "ChIJHccPh19M0xQR7ZCLqbOrRoo",
+         "plus_code" : {
+            "compound_code" : "2R2M+P8 Keçiören/Ankara, Turkey",
+            "global_code" : "8GGJ2R2M+P8"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

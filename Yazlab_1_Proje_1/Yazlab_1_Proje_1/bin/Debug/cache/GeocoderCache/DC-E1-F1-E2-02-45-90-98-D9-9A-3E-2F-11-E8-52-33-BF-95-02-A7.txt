@@ -1,0 +1,615 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "XV88+JQQ Keçiören/Ankara, Turkey",
+      "global_code" : "8GFJXV88+JQQ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "No:46",
+               "short_name" : "No:46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Şehit Makbule Sokak",
+               "short_name" : "Şht. Makbule Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kavacık Subayevleri",
+               "short_name" : "Kavacık Subayevleri",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06135",
+               "short_name" : "06135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kavacık Subayevleri, Şht. Makbule Sk. No:46, 06135 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.966545,
+               "lng" : 32.867064
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9678939802915,
+                  "lng" : 32.8684129802915
+               },
+               "southwest" : {
+                  "lat" : 39.9651960197085,
+                  "lng" : 32.8657150197085
+               }
+            }
+         },
+         "place_id" : "ChIJs_EisMVN0xQRk2fzNyvkRQ0",
+         "plus_code" : {
+            "compound_code" : "XV88+JR Keçiören/Ankara, Turkey",
+            "global_code" : "8GFJXV88+JR"
+         },
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "no:46/A",
+               "short_name" : "no:46/A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Şehit Makbule Sokak",
+               "short_name" : "Şht. Makbule Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kavacık Subayevleri",
+               "short_name" : "Kavacık Subayevleri",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06135",
+               "short_name" : "06135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kavacık Subayevleri, Şht. Makbule Sk. no:46/A, 06135 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.966545,
+               "lng" : 32.867064
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9678939802915,
+                  "lng" : 32.8684129802915
+               },
+               "southwest" : {
+                  "lat" : 39.9651960197085,
+                  "lng" : 32.8657150197085
+               }
+            }
+         },
+         "place_id" : "ChIJs_EisMVN0xQRKO9R06Y30GY",
+         "plus_code" : {
+            "compound_code" : "XV88+JR Keçiören/Ankara, Turkey",
+            "global_code" : "8GFJXV88+JR"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "48",
+               "short_name" : "48",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Şehit Makbule Sokak",
+               "short_name" : "Şht. Makbule Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kavacık Subayevleri",
+               "short_name" : "Kavacık Subayevleri",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06135",
+               "short_name" : "06135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kavacık Subayevleri, Şht. Makbule Sk. No:48, 06135 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.96637090000001,
+               "lng" : 32.8670333
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.96771988029151,
+                  "lng" : 32.86838228029149
+               },
+               "southwest" : {
+                  "lat" : 39.96502191970851,
+                  "lng" : 32.8656843197085
+               }
+            }
+         },
+         "place_id" : "Ek5LYXZhY8SxayBTdWJheWV2bGVyaSwgxZ5odC4gTWFrYnVsZSBTay4gTm86NDgsIDA2MTM1IEtlw6dpw7ZyZW4vQW5rYXJhLCBUdXJrZXkiGhIYChQKEgmHIrmzxU3TFBGteyx4HBfFjxAw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "XV88+JQ",
+               "short_name" : "XV88+JQ",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "XV88+JQ Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.966625,
+                  "lng" : 32.867
+               },
+               "southwest" : {
+                  "lat" : 39.9665,
+                  "lng" : 32.866875
+               }
+            },
+            "location" : {
+               "lat" : 39.9665957,
+               "lng" : 32.8669739
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.96791148029151,
+                  "lng" : 32.8682864802915
+               },
+               "southwest" : {
+                  "lat" : 39.96521351970851,
+                  "lng" : 32.8655885197085
+               }
+            }
+         },
+         "place_id" : "GhIJJPpraLn7Q0ARJ34xAPluQEA",
+         "plus_code" : {
+            "compound_code" : "XV88+JQ Keçiören/Ankara, Turkey",
+            "global_code" : "8GFJXV88+JQ"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "57-35",
+               "short_name" : "57-35",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Şehit Makbule Sokak",
+               "short_name" : "Şht. Makbule Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kavacık Subayevleri",
+               "short_name" : "Kavacık Subayevleri",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06135",
+               "short_name" : "06135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kavacık Subayevleri, Şht. Makbule Sk. 57-35, 06135 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.967037,
+                  "lng" : 32.868302
+               },
+               "southwest" : {
+                  "lat" : 39.966154,
+                  "lng" : 32.866542
+               }
+            },
+            "location" : {
+               "lat" : 39.9665572,
+               "lng" : 32.8674551
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.96794448029149,
+                  "lng" : 32.8687709802915
+               },
+               "southwest" : {
+                  "lat" : 39.96524651970849,
+                  "lng" : 32.8660730197085
+               }
+            }
+         },
+         "place_id" : "ChIJhyK5s8VN0xQRrHsseBwXxY8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kavacık Subayevleri",
+               "short_name" : "Kavacık Subayevleri",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06135",
+               "short_name" : "06135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kavacık Subayevleri, 06135 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.977307,
+                  "lng" : 32.8774298
+               },
+               "southwest" : {
+                  "lat" : 39.959139,
+                  "lng" : 32.86091700000001
+               }
+            },
+            "location" : {
+               "lat" : 39.9687472,
+               "lng" : 32.8690828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.977307,
+                  "lng" : 32.8774298
+               },
+               "southwest" : {
+                  "lat" : 39.959139,
+                  "lng" : 32.86091700000001
+               }
+            }
+         },
+         "place_id" : "ChIJcS8VvcZN0xQRHIchS2hCpoc",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "06135",
+               "short_name" : "06135",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "06135 Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.977472,
+                  "lng" : 32.8774298
+               },
+               "southwest" : {
+                  "lat" : 39.959139,
+                  "lng" : 32.86091700000001
+               }
+            },
+            "location" : {
+               "lat" : 39.9687472,
+               "lng" : 32.8690828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.977472,
+                  "lng" : 32.8774298
+               },
+               "southwest" : {
+                  "lat" : 39.959139,
+                  "lng" : 32.86091700000001
+               }
+            }
+         },
+         "place_id" : "ChIJD6PsAM9N0xQRYbLJCTu8gZc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Keçiören/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.215276,
+                  "lng" : 32.9002911
+               },
+               "southwest" : {
+                  "lat" : 39.9577741,
+                  "lng" : 32.7403329
+               }
+            },
+            "location" : {
+               "lat" : 40.0210623,
+               "lng" : 32.831015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.215276,
+                  "lng" : 32.9002911
+               },
+               "southwest" : {
+                  "lat" : 39.9577741,
+                  "lng" : 32.7403329
+               }
+            }
+         },
+         "place_id" : "ChIJPyxqhX0JgkARRC5yRkOsIo0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            },
+            "location" : {
+               "lat" : 39.9333635,
+               "lng" : 32.8597419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.076332,
+                  "lng" : 33.007056
+               },
+               "southwest" : {
+                  "lat" : 39.7304211,
+                  "lng" : 32.5184735
+               }
+            }
+         },
+         "place_id" : "ChIJsS1zINVH0xQRjSuEwLBX3As",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            },
+            "location" : {
+               "lat" : 39.7805245,
+               "lng" : 32.7181375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.756282,
+                  "lng" : 33.871969
+               },
+               "southwest" : {
+                  "lat" : 38.6699421,
+                  "lng" : 30.8240371
+               }
+            }
+         },
+         "place_id" : "ChIJ2UbubYMC0xQRePrg-9apYgY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.808592,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

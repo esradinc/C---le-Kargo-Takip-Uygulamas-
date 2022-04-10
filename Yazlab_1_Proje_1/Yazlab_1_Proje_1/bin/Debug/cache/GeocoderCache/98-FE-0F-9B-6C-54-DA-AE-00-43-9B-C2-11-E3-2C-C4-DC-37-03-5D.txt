@@ -1,0 +1,64 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WJH4+VC",
+               "short_name" : "WJH4+VC",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WJH4+VC Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.92975,
+                  "lng" : 32.606125
+               },
+               "southwest" : {
+                  "lat" : 39.929625,
+                  "lng" : 32.606
+               }
+            },
+            "location" : {
+               "lat" : 39.9296875,
+               "lng" : 32.60606250000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9310364802915,
+                  "lng" : 32.6074114802915
+               },
+               "southwest" : {
+                  "lat" : 39.9283385197085,
+                  "lng" : 32.6047135197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "GhIJAAAAAAD3Q0ARgGq8dJNNQEA",
+         "plus_code" : {
+            "compound_code" : "WJH4+VC Etimesgut/Ankara, Turkey",
+            "global_code" : "8GFJWJH4+VC"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

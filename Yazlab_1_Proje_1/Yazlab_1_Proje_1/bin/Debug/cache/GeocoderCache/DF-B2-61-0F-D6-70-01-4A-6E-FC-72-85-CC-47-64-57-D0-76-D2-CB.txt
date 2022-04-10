@@ -1,0 +1,74 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12 G",
+               "short_name" : "12 G",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kuzey Ankara 12. Etap",
+               "short_name" : "Kuzey Ankara 12. Etap",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baraj",
+               "short_name" : "Baraj",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Altındağ",
+               "short_name" : "Altındağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06150",
+               "short_name" : "06150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baraj, Kuzey Ankara 12. Etap 12 G, 06150 Altındağ/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.01270540000001,
+                  "lng" : 32.9074277
+               },
+               "southwest" : {
+                  "lat" : 40.0125071,
+                  "lng" : 32.9073278
+               }
+            },
+            "location" : {
+               "lat" : 40.0126067,
+               "lng" : 32.9073785
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0139552302915,
+                  "lng" : 32.9087267302915
+               },
+               "southwest" : {
+                  "lat" : 40.01125726970851,
+                  "lng" : 32.90602876970851
+               }
+            }
+         },
+         "place_id" : "ChIJCwGUq61S0xQRu4lFjLG00Gw",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

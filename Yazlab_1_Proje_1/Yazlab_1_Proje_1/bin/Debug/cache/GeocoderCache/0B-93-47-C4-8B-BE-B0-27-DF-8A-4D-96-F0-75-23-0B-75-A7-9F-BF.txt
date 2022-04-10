@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1690. Sokak",
+               "short_name" : "1690. Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Süvari",
+               "short_name" : "Süvari",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06794",
+               "short_name" : "06794",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Süvari, 1690. Sk. No:10, 06794 Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.950797,
+               "lng" : 32.6468739
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9521459802915,
+                  "lng" : 32.64822288029149
+               },
+               "southwest" : {
+                  "lat" : 39.94944801970851,
+                  "lng" : 32.64552491970849
+               }
+            }
+         },
+         "place_id" : "ChIJO9i6fF830xQR_aRT6kdyrAo",
+         "plus_code" : {
+            "compound_code" : "XJ2W+8P Etimesgut/Ankara, Turkey",
+            "global_code" : "8GFJXJ2W+8P"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

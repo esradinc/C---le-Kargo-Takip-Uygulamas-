@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiU4oFF050xQRplRSpjdDXzU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiU4oFF050xQRplRSpjdDXzU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 39.89696379999999,
+               "lng" : 32.6373183
+            },
+            "southwest" : {
+               "lat" : 39.89696379999999,
+               "lng" : 32.6373183
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Bağlıca, Bağlıca Blv. No:69, 06790 Etimesgut/Ankara, Turkey",
+               "end_location" : {
+                  "lat" : 39.89696379999999,
+                  "lng" : 32.6373183
+               },
+               "start_address" : "Bağlıca, Bağlıca Blv. No:69, 06790 Etimesgut/Ankara, Turkey",
+               "start_location" : {
+                  "lat" : 39.89696379999999,
+                  "lng" : 32.6373183
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 39.89696379999999,
+                        "lng" : 32.6373183
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eBağlıca Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_korFgnefE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.89696379999999,
+                        "lng" : 32.6373183
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_korFgnefE"
+         },
+         "summary" : "Bağlıca Blv.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

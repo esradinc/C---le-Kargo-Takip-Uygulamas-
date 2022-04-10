@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "WM24+4P",
+               "short_name" : "WM24+4P",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "WM24+4P Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.900375,
+                  "lng" : 32.656875
+               },
+               "southwest" : {
+                  "lat" : 39.90025,
+                  "lng" : 32.65675
+               }
+            },
+            "location" : {
+               "lat" : 39.9003125,
+               "lng" : 32.6568125
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9016614802915,
+                  "lng" : 32.6581614802915
+               },
+               "southwest" : {
+                  "lat" : 39.8989635197085,
+                  "lng" : 32.6554635197085
+               }
+            }
+         },
+         "place_id" : "GhIJCtejcD3zQ0ARUI2XbhJUQEA",
+         "plus_code" : {
+            "compound_code" : "WM24+4P Etimesgut/Ankara, Turkey",
+            "global_code" : "8GFJWM24+4P"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

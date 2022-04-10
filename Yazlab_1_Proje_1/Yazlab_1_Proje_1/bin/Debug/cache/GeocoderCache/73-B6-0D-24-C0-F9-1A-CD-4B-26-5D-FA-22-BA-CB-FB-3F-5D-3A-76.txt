@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "X52M+8M",
+               "short_name" : "X52M+8M",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Elmadağ",
+               "short_name" : "Elmadağ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "X52M+8M Elmadağ/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.950875,
+                  "lng" : 33.18425
+               },
+               "southwest" : {
+                  "lat" : 39.95075,
+                  "lng" : 33.184125
+               }
+            },
+            "location" : {
+               "lat" : 39.9508125,
+               "lng" : 33.1841875
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.95216148029149,
+                  "lng" : 33.1855364802915
+               },
+               "southwest" : {
+                  "lat" : 39.94946351970849,
+                  "lng" : 33.1828385197085
+               }
+            }
+         },
+         "place_id" : "GhIJYhBYObT5Q0ARf2q8dJOXQEA",
+         "plus_code" : {
+            "compound_code" : "X52M+8M Elmadağ/Ankara, Turkey",
+            "global_code" : "8GFMX52M+8M"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

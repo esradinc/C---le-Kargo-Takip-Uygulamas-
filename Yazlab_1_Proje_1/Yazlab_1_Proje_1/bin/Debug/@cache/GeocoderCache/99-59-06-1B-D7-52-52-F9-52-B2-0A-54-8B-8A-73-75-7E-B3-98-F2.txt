@@ -1,0 +1,70 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1670. Sokak",
+               "short_name" : "1670. Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uğur Mumcu",
+               "short_name" : "Uğur Mumcu",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Ostim Osb",
+               "short_name" : "Ostim Osb",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06370",
+               "short_name" : "06370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Uğur Mumcu, 1670. Sk. No:10, 06370 Ostim Osb/Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9557582,
+               "lng" : 32.741191
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.95710718029149,
+                  "lng" : 32.7425399802915
+               },
+               "southwest" : {
+                  "lat" : 39.9544092197085,
+                  "lng" : 32.7398420197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkhVxJ91ciBNdW1jdSwgMTY3MC4gU2suIE5vOjEwLCAwNjM3MCBPc3RpbSBPc2IvWWVuaW1haGFsbGUvQW5rYXJhLCBUdXJrZXkiGhIYChQKEgnlQKuGSkjTFBEx13pe1HV9thAK",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

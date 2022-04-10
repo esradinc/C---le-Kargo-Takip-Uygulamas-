@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RHHV+2F",
+               "short_name" : "RHHV+2F",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Etimesgut",
+               "short_name" : "Etimesgut",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "RHHV+2F Etimesgut/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.827625,
+                  "lng" : 32.59375
+               },
+               "southwest" : {
+                  "lat" : 39.8275,
+                  "lng" : 32.593625
+               }
+            },
+            "location" : {
+               "lat" : 39.8275625,
+               "lng" : 32.5936875
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8289114802915,
+                  "lng" : 32.5950364802915
+               },
+               "southwest" : {
+                  "lat" : 39.8262135197085,
+                  "lng" : 32.5923385197085
+               }
+            }
+         },
+         "place_id" : "GhIJsHJoke3pQ0ARokW28_1LQEA",
+         "plus_code" : {
+            "compound_code" : "RHHV+2F Etimesgut/Ankara, Turkey",
+            "global_code" : "8GFJRHHV+2F"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

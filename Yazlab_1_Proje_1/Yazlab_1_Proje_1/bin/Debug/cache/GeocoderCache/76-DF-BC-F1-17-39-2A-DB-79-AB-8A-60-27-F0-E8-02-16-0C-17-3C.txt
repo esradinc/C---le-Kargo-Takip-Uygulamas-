@@ -1,0 +1,64 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "VWC9+74",
+               "short_name" : "VWC9+74",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "VWC9+74 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.87075,
+                  "lng" : 32.917875
+               },
+               "southwest" : {
+                  "lat" : 39.870625,
+                  "lng" : 32.91775
+               }
+            },
+            "location" : {
+               "lat" : 39.8706875,
+               "lng" : 32.9178125
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8720364802915,
+                  "lng" : 32.91916148029149
+               },
+               "southwest" : {
+                  "lat" : 39.8693385197085,
+                  "lng" : 32.91646351970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "GhIJm8QgsHLvQ0ARFK5H4Xp1QEA",
+         "plus_code" : {
+            "compound_code" : "VWC9+74 Çankaya/Ankara, Turkey",
+            "global_code" : "8GFJVWC9+74"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}

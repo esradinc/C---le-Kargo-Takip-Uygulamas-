@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "108-1",
+               "short_name" : "108-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Altınezgi Sitesi",
+               "short_name" : "Altınezgi Sitesi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dodurga",
+               "short_name" : "Dodurga",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Yenimahalle",
+               "short_name" : "Yenimahalle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06810",
+               "short_name" : "06810",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dodurga, Altınezgi Sitesi 108-1, 06810 Yenimahalle/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.822647,
+               "lng" : 32.656612
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8239959802915,
+                  "lng" : 32.6579609802915
+               },
+               "southwest" : {
+                  "lat" : 39.8212980197085,
+                  "lng" : 32.6552630197085
+               }
+            }
+         },
+         "place_id" : "ChIJr3Q5r0Y-0xQRHgZCmE9s7jM",
+         "plus_code" : {
+            "compound_code" : "RMF4+3J Çankaya/Ankara, Turkey",
+            "global_code" : "8GFJRMF4+3J"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

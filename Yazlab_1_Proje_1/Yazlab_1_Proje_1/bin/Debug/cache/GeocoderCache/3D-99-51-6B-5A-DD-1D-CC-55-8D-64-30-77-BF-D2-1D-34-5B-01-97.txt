@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "206",
+               "short_name" : "206",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dumlupınar Sirkeli Yolu",
+               "short_name" : "Dumlupınar Sirkeli Yolu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Karşıyaka",
+               "short_name" : "Karşıyaka",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Pursaklar",
+               "short_name" : "Pursaklar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06145",
+               "short_name" : "06145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karşıyaka, Dumlupınar Sirkeli Yolu No:206, 06145 Pursaklar/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.1400359,
+               "lng" : 32.89697
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1413848802915,
+                  "lng" : 32.8983189802915
+               },
+               "southwest" : {
+                  "lat" : 40.1386869197085,
+                  "lng" : 32.8956210197085
+               }
+            }
+         },
+         "place_id" : "ChIJe2RFZ7gNgkARHV6joX5jVtw",
+         "plus_code" : {
+            "compound_code" : "4VRW+2Q Pursaklar/Ankara, Turkey",
+            "global_code" : "8GGJ4VRW+2Q"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
